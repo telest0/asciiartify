@@ -116,7 +116,7 @@ pVHY37xZIGxCyLK5
 ![SYNCHRONIZE](.img/argo_status.png)  
 
 8. Прослідкуємо за реакцією ArgoCD на зміни в репозиторію.
-- Змінимо в файлі репозиторію https://github.com/vit-um/go-demo-app/blob/master/helm/values.yaml тип шлюзу з `NodePort` на `LoadBalancer` (останній рядок файлу)  
+- Змінимо в файлі репозиторію https://github.com/telest0/go-demo-app/blob/master/helm/values.yaml тип шлюзу з `NodePort` на `LoadBalancer` (останній рядок файлу)  
 
 ![out of sync](.img/argo_outofsync.png)
 
